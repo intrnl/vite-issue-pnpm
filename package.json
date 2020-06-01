@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "0.19.3"
+  },
+  "dependencies": {
+    "@intrnl/substate": "0.1.0",
+    "preact": "10.4.4"
+  }
+}
